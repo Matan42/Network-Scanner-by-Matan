@@ -21,3 +21,6 @@ Then you can chose to save the results of the scan to a json file (.json at the 
 Hope you will find it useful <3.
 
 
+pb I'm working on adding an exe file.
+
+
