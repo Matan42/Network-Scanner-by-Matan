@@ -4,7 +4,10 @@
 
 This is a program that scans your device's network , shows all connected devices and searches for security threats
 
+Requirements:
 
+Your pc must have Npcap installed 
+Here is the download link: https://npcap.com/#download
 
 How to use:
 
@@ -19,6 +22,8 @@ Then you can chose to save the results of the scan to a json file (.json at the 
 
 
 Hope you will find it useful <3.
+
+
 
 
 
